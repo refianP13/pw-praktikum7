@@ -1,0 +1,45 @@
+body {
+    padding: 25px;
+    background-color: cornsilk;
+    color: black;
+    font-size: 25px;
+}
+
+.container {
+    margin: 100px;
+    margin-left: 500px;
+}
+
+.f-group {
+    float: left;
+    justify-content: space-between;
+}
+
+.f-group label {
+    display: flexbox;
+    margin-bottom: 8px;
+    font-family: Arial,sans-serif;
+    font-weight: 200;
+}
+
+select {
+    border: 1px solid black;
+    border-radius: 4px;
+    height: 40px;
+    width: 200px;
+    padding: 0 15px;
+    margin-right: 20px;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+h2{
+  font-size: 27px; 
+  margin-top: 20px;
+  justify-content: space-between; 
+}
+ img{
+     
+ }
